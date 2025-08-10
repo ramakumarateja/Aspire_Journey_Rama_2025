@@ -1,0 +1,15 @@
+This is line1 
+This is line2
+This is line3
+ubuntu:~/Aspire_Journey_Rama_2025$ cat File1.txt
+
+
+cat File1.txt
+hello
+
+
+ubuntu:~/Aspire_Journey_Rama_2025$ cat > File1.txt
+1
+1
+2
+2
