@@ -1,0 +1,4 @@
+This is file 2 lin1
+234
+567
+ubuntu:~/Aspire_Journey_Rama_2025$ 
